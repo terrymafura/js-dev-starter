@@ -26,9 +26,9 @@ export const schema = {
             "faker": "internet.email"
           }
         },
-        "required": ["id", "firstName", "lastName", "email"]
+        required: ["id", "firstName", "lastName", "email"]
       }
     }
   },
-  "required": ["users"]
+  required: ["users"]
 };
